@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{8785A124-CAFE-4FA0-B890-B47A3A479C70}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArcMovies.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
